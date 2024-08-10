@@ -1,0 +1,1 @@
+# hi there, this is my first simple javascript app that lets you count anything
